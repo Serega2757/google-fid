@@ -369,3 +369,4 @@ async function generateFeed() {
 
     newItem += `<g:condition>${conditionSrc}</g:condition>\n`;
     newItem += `<g:product_type>${escapeXml(product_type)}</g:product_type>\
+   }
