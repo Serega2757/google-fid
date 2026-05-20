@@ -345,6 +345,7 @@ async function generateFeed() {
 
       brandOut = 'NoName';
     }
+  }
 
     // =========================
     // XML ITEM
