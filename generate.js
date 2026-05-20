@@ -569,13 +569,8 @@ async function generateFeed() {
         `<g:google_product_category>${escapeXml(googleCategory)}</g:google_product_category>\n`;
     }
 
-    if (productType) {
 
-      output +=
-        `<g:product_type>${escapeXml(productType)}</g:product_type>\n`;
-    }
-
-    if (label1) {
+     if (label1) {
 
       output +=
         `<g:custom_label_1>${escapeXml(label1)}</g:custom_label_1>\n`;
