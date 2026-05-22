@@ -429,14 +429,59 @@ async function generateFeed() {
   console.log('START FEED GENERATION');
   console.log('=================================');
 
-  const response = await axios.get(SOURCE_URL, {
-    timeout: 120000
-  });
-
-  const xml = response.data;
-
-  const items =
-    xml.match(/<item>[\s\S]*?<\/item>/gi) || [];
+   // =========================================================
+   // LOAD SOURCE XML
+   // =========================================================
+   
+   const requestUrl =
+     SOURCE_URL +
+     (SOURCE_URL.includes('?') ? '&' : '?') +
+     't=' + Date.now();
+   
+   console.log('=================================');
+   console.log('LOAD SOURCE FEED');
+   console.log(requestUrl);
+   console.log('=================================');
+   
+   const response = await axios.get(
+   
+     requestUrl,
+   
+     {
+       timeout: 120000,
+   
+       headers: {
+         'Cache-Control': 'no-cache, no-store, must-revalidate',
+         'Pragma': 'no-cache',
+         'Expires': '0'
+       }
+     }
+   );
+   
+   // =========================================================
+   // XML
+   // =========================================================
+   
+   let xml = String(response.data || '');
+   
+   // =========================================================
+   // REMOVE TRASH TAGS
+   // =========================================================
+   
+   xml = xml
+     .replace(/<script[\s\S]*?<\/script>/gi, '')
+     .replace(/<script\/>/gi, '');
+   
+   // =========================================================
+   // PARSE ITEMS
+   // =========================================================
+   
+   const items =
+     xml.match(/<item>[\s\S]*?<\/item>/gi) || [];
+   
+   console.log('=================================');
+   console.log(`ITEMS FOUND: ${items.length}`);
+   console.log('=================================');
 
   console.log('ITEMS FOUND:', items.length);
 
