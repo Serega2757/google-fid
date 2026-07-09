@@ -288,7 +288,7 @@ function normalizeProductType(type) {
    LABEL 1
 ========================================================= */
 
-function getLabel1(productType, price) {
+function getLabel1(productType, price, brand) {
 
   const type = normalizeProductType(productType);
 
@@ -350,6 +350,14 @@ function getLabel1(productType, price) {
     return 'Стартові набори';
   }
 
+     // =========================
+  // Кальяни
+
+  if (type === 'Кальяни > Кальяни') {
+
+    return brand;
+  }
+   
   // =========================
   // Суміш
 
@@ -561,7 +569,7 @@ async function generateFeed() {
     // =====================================================
 
     const label1 =
-      getLabel1(productType, price);
+     getLabel1(productType, price, brand);
 
     const label2 =
       getLabel2(label1, title, brand);
