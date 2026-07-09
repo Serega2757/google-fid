@@ -399,7 +399,7 @@ function getLabel2(label1, title, brand) {
    // =========================
    // Кальяни
    
-   if (label1 === 'пристрої ароматизації) {
+   if (label1 === 'пристрої ароматизації') {
    
      return brand || '';
    }
