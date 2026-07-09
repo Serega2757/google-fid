@@ -586,15 +586,15 @@ async function generateFeed() {
       if (label1 === 'пристрої ароматизації') {
       
         titleOut = String(titleOut || '')
-          .replace(/\bкальян(и|ів|ами|ах|ом|у|а|ів)?\b/giu, '')
-          .replace(/\bhookah\b/giu, '')
+          .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])кальян(и|ів|ами|ах|ом|у|а)?(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
+          .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])hookah(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
           .replace(/\s+/g, ' ')
           .replace(/\s+([,.;:!?)])/g, '$1')
           .trim();
       
         descriptionOut = String(descriptionOut || '')
-          .replace(/\bкальян(и|ів|ами|ах|ом|у|а|ів)?\b/giu, '')
-          .replace(/\bhookah\b/giu, '')
+          .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])кальян(и|ів|ами|ах|ом|у|а)?(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
+          .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])hookah(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
           .replace(/\s+/g, ' ')
           .replace(/\s+([,.;:!?)])/g, '$1')
           .trim();
