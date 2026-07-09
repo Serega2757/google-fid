@@ -532,17 +532,7 @@ async function generateFeed() {
 
     const title =
       getTag(item, 'title');
-     let titleOut = title;
-
-      if (label1 === 'пристрої ароматизації') {
-      
-        titleOut = titleOut
-          .replace(/\bкальян\b/gi, '')
-          .replace(/\bкальяни\b/gi, '')
-          .replace(/\s+/g, ' ')
-          .trim();
-      }
-
+ 
     const description =
       getTag(item, 'description');
 
