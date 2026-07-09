@@ -288,7 +288,7 @@ function normalizeProductType(type) {
    LABEL 1
 ========================================================= */
 
-function getLabel1(productType, price, brand) {
+function getLabel1(productType, price) {
 
   const type = normalizeProductType(productType);
 
@@ -355,7 +355,7 @@ function getLabel1(productType, price, brand) {
 
   if (type === 'Кальяни > Кальяни') {
 
-    return brand;
+    return 'Кальяни';
   }
    
   // =========================
@@ -396,7 +396,13 @@ function getLabel2(label1, title, brand) {
 
     return resolveDeviceBrand(title, brand);
   }
-
+   // =========================
+   // Кальяни
+   
+   if (label1 === 'Кальяни') {
+   
+     return brand || '';
+   }
   // =========================
   // Суміш
 
@@ -569,7 +575,7 @@ async function generateFeed() {
     // =====================================================
 
     const label1 =
-     getLabel1(productType, price, brand);
+     getLabel1(productType, price);
 
     const label2 =
       getLabel2(label1, title, brand);
