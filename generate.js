@@ -355,7 +355,7 @@ function getLabel1(productType, price) {
 
   if (type === 'Кальяни > Кальяни') {
 
-    return 'Кальяни';
+    return 'пристрої ароматизації';
   }
    
   // =========================
@@ -399,7 +399,7 @@ function getLabel2(label1, title, brand) {
    // =========================
    // Кальяни
    
-   if (label1 === 'Кальяни') {
+   if (label1 === 'пристрої ароматизації) {
    
      return brand || '';
    }
@@ -532,6 +532,16 @@ async function generateFeed() {
 
     const title =
       getTag(item, 'title');
+     let titleOut = title;
+
+      if (label1 === 'пристрої ароматизації') {
+      
+        titleOut = titleOut
+          .replace(/\bкальян\b/gi, '')
+          .replace(/\bкальяни\b/gi, '')
+          .replace(/\s+/g, ' ')
+          .trim();
+      }
 
     const description =
       getTag(item, 'description');
@@ -600,7 +610,7 @@ async function generateFeed() {
       `<g:id>${escapeXml(id)}</g:id>\n`;
 
     output +=
-      `<g:title><![CDATA[${safeCDATA(title)}]]></g:title>\n`;
+      `<g:title><![CDATA[${safeCDATA(titleOut)}]]></g:title>\n`;
 
     output +=
       `<g:description><![CDATA[${safeCDATA(description)}]]></g:description>\n`;
