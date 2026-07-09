@@ -584,11 +584,22 @@ async function generateFeed() {
     // LABELS
     // =====================================================
 
-    const label1 =
-     getLabel1(productType, price);
-
-    const label2 =
-      getLabel2(label1, title, brand);
+      const label1 =
+        getLabel1(productType, price);
+      
+      const label2 =
+        getLabel2(label1, title, brand);
+      
+      let titleOut = title;
+      
+      if (label1 === 'пристрої ароматизації') {
+      
+        titleOut = titleOut
+          .replace(/\bкальян\b/gi, '')
+          .replace(/\bкальяни\b/gi, '')
+          .replace(/\s+/g, ' ')
+          .trim();
+      }
 
     // =====================================================
     // BRAND OUTPUT
