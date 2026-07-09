@@ -581,13 +581,22 @@ async function generateFeed() {
         getLabel2(label1, title, brand);
       
       let titleOut = title;
+      let descriptionOut = description;
       
       if (label1 === 'пристрої ароматизації') {
       
-        titleOut = titleOut
-          .replace(/\bкальян\b/gi, '')
-          .replace(/\bкальяни\b/gi, '')
+        titleOut = String(titleOut || '')
+          .replace(/\bкальян(и|ів|ами|ах|ом|у|а|ів)?\b/giu, '')
+          .replace(/\bhookah\b/giu, '')
           .replace(/\s+/g, ' ')
+          .replace(/\s+([,.;:!?)])/g, '$1')
+          .trim();
+      
+        descriptionOut = String(descriptionOut || '')
+          .replace(/\bкальян(и|ів|ами|ах|ом|у|а|ів)?\b/giu, '')
+          .replace(/\bhookah\b/giu, '')
+          .replace(/\s+/g, ' ')
+          .replace(/\s+([,.;:!?)])/g, '$1')
           .trim();
       }
 
@@ -614,7 +623,7 @@ async function generateFeed() {
       `<g:title><![CDATA[${safeCDATA(titleOut)}]]></g:title>\n`;
 
     output +=
-      `<g:description><![CDATA[${safeCDATA(description)}]]></g:description>\n`;
+      `<g:description><![CDATA[${safeCDATA(descriptionOut)}]]></g:description>\n`;
 
     output +=
       `<g:link>${escapeXml(link)}</g:link>\n`;
