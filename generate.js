@@ -96,6 +96,7 @@ const SOURCE_URL =
     "Nord 4 2000": "Smok",
     "Novo 5 900": "Smok",
     "VP XROS 3 1000": "Vaporesso",
+    "ХRОS": "Vaporesso",
     "Argus G2 1000": "Voopoo",
     "VMATE PRO 900": "Voopoo"
   };
