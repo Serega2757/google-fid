@@ -583,14 +583,6 @@ async function generateFeed() {
       
       let titleOut = title;
       let descriptionOut = description;
-
-      // =========================
-      // Pods
-      
-      if (label1 === 'pods') {
-      
-        descriptionOut = 'Великий вибір кольорів. Тільки оригінальна продукція';
-      }
       
       if (label1 === 'пристрої ароматизації') {
       
@@ -631,8 +623,13 @@ async function generateFeed() {
     output +=
       `<g:title><![CDATA[${safeCDATA(titleOut)}]]></g:title>\n`;
 
-    output +=
-      `<g:description><![CDATA[${safeCDATA(descriptionOut)}]]></g:description>\n`;
+   const finalDescription =
+     label1 === 'pods'
+       ? 'Великий вибір кольорів. Тільки оригінальна продукція'
+       : descriptionOut;
+   
+   output +=
+     `<g:description><![CDATA[${safeCDATA(finalDescription)}]]></g:description>\n`;
 
     output +=
       `<g:link>${escapeXml(link)}</g:link>\n`;
