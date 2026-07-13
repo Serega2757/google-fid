@@ -583,6 +583,14 @@ async function generateFeed() {
       
       let titleOut = title;
       let descriptionOut = description;
+
+      // =========================
+      // Pods
+      
+      if (label1 === 'pods') {
+      
+        descriptionOut = 'Великий вибір кольорів. Тільки оригінальна продукція';
+      }
       
       if (label1 === 'пристрої ароматизації') {
       
