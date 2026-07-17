@@ -219,7 +219,7 @@ function decodeHtmlEntities(str) {
 function cleanText(text) {
 
   return String(text || '')
-    .replace(/\u00A0/g, ' ')
+    .replace(/ /g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -283,6 +283,38 @@ function normalizeProductType(type) {
     .replace(/&gt;/gi, '>')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+/* =========================================================
+   EXCLUDED SKUS (custom_label_3 flag for manual review)
+========================================================= */
+
+// Простий текстовий файл у корені репозиторію: один артикул (g:id) на рядок.
+// Порожні рядки та рядки, що починаються з "#", ігноруються (можна лишати коментарі
+// на власному рядку, наприклад "# додано 2026-07-17 — нерентабельні товари").
+// Товари з цього списку отримують <g:custom_label_3>убрать</g:custom_label_3> —
+// доступність (availability) при цьому НЕ змінюється, товар і далі йде у фід як є.
+// Відключення з реклами робиться вручну в Merchant Center фільтром по цій мітці.
+// Немає файлу — просто жоден товар не отримає мітку, фід формується як раніше.
+const EXCLUDED_FILE = 'excluded.txt';
+
+function loadExcludedIds() {
+
+  if (!fs.existsSync(EXCLUDED_FILE)) {
+    console.log(`No ${EXCLUDED_FILE} found — skipping custom_label_3 flags.`);
+    return new Set();
+  }
+
+  const raw = fs.readFileSync(EXCLUDED_FILE, 'utf8');
+
+  const ids = raw
+    .split(/\r?\n/)
+    .map(line => line.split('#')[0].trim())
+    .filter(line => line.length > 0);
+
+  console.log(`Loaded ${ids.length} flagged SKU(s) from ${EXCLUDED_FILE}`);
+
+  return new Set(ids);
 }
 
 /* =========================================================
@@ -358,7 +390,7 @@ function getLabel1(productType, price) {
 
     return 'пристрої ароматизації';
   }
-   
+
   // =========================
   // Суміш
 
@@ -399,9 +431,9 @@ function getLabel2(label1, title, brand) {
   }
    // =========================
    // Кальяни
-   
+
    if (label1 === 'пристрої ароматизації') {
-   
+
      return brand || '';
    }
   // =========================
@@ -421,20 +453,20 @@ function getLabel2(label1, title, brand) {
 
    // =========================
    // Рідини / Набори
-   
+
    if (
      label1 === 'рідини' ||
      label1 === 'Стартові набори'
    ) {
-   
+
      return brand || '';
    }
-   
+
    // =========================
    // Картриджі
-   
+
    if (label1 === 'Картриджи') {
-   
+
      return '';
    }
 
@@ -452,26 +484,32 @@ async function generateFeed() {
   console.log('=================================');
 
    // =========================================================
+   // LOAD MANUAL EXCLUSION LIST
+   // =========================================================
+
+   const excludedIds = loadExcludedIds();
+
+   // =========================================================
    // LOAD SOURCE XML
    // =========================================================
-   
+
    const requestUrl =
      SOURCE_URL +
      (SOURCE_URL.includes('?') ? '&' : '?') +
      't=' + Date.now();
-   
+
    console.log('=================================');
    console.log('LOAD SOURCE FEED');
    console.log(requestUrl);
    console.log('=================================');
-   
+
    const response = await axios.get(
-   
+
      requestUrl,
-   
+
      {
        timeout: 120000,
-   
+
        headers: {
          'Cache-Control': 'no-cache, no-store, must-revalidate',
          'Pragma': 'no-cache',
@@ -479,28 +517,28 @@ async function generateFeed() {
        }
      }
    );
-   
+
    // =========================================================
    // XML
    // =========================================================
-   
+
    let xml = String(response.data || '');
-   
+
    // =========================================================
    // REMOVE TRASH TAGS
    // =========================================================
-   
+
    xml = xml
      .replace(/<script[\s\S]*?<\/script>/gi, '')
      .replace(/<script\/>/gi, '');
-   
+
    // =========================================================
    // PARSE ITEMS
    // =========================================================
-   
+
    const items =
      xml.match(/<item>[\s\S]*?<\/item>/gi) || [];
-   
+
    console.log('=================================');
    console.log(`ITEMS FOUND: ${items.length}`);
    console.log('=================================');
@@ -525,6 +563,8 @@ async function generateFeed() {
   // LOOP
   // =====================================================
 
+  let flaggedCount = 0;
+
   for (const item of items) {
 
     const id = getTag(item, 'id');
@@ -533,7 +573,7 @@ async function generateFeed() {
 
     const title =
       getTag(item, 'title');
- 
+
     const description =
       getTag(item, 'description');
 
@@ -545,6 +585,16 @@ async function generateFeed() {
 
     const availability =
       getTag(item, 'availability');
+
+    // =====================================================
+    // MANUAL REVIEW FLAG (custom_label_3)
+    // =====================================================
+
+    const isFlaggedForRemoval = excludedIds.has(id);
+
+    if (isFlaggedForRemoval) {
+      flaggedCount++;
+    }
 
     const priceStr =
       getTag(item, 'price');
@@ -577,22 +627,22 @@ async function generateFeed() {
 
       const label1 =
         getLabel1(productType, price);
-      
+
       const label2 =
         getLabel2(label1, title, brand);
-      
+
       let titleOut = title;
       let descriptionOut = description;
-      
+
       if (label1 === 'пристрої ароматизації') {
-      
+
         titleOut = String(titleOut || '')
           .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])кальян(и|ів|ами|ах|ом|у|а)?(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
           .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])hookah(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
           .replace(/\s+/g, ' ')
           .replace(/\s+([,.;:!?)])/g, '$1')
           .trim();
-      
+
         descriptionOut = String(descriptionOut || '')
           .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])кальян(и|ів|ами|ах|ом|у|а)?(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
           .replace(/(^|[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9])hookah(?=[^a-zA-Zа-яА-ЯёЁіІїЇєЄґҐ0-9]|$)/giu, '$1')
@@ -627,7 +677,7 @@ async function generateFeed() {
      label1 === 'pods'
        ? 'Великий вибір кольорів. Тільки оригінальна продукція'
        : descriptionOut;
-   
+
    output +=
      `<g:description><![CDATA[${safeCDATA(finalDescription)}]]></g:description>\n`;
 
@@ -674,6 +724,12 @@ async function generateFeed() {
         `<g:custom_label_2>${escapeXml(label2)}</g:custom_label_2>\n`;
     }
 
+    if (isFlaggedForRemoval) {
+
+      output +=
+        `<g:custom_label_3>убрать</g:custom_label_3>\n`;
+    }
+
     output += '</item>\n';
   }
 
@@ -684,6 +740,10 @@ async function generateFeed() {
   output += '</channel>\n';
 
   output += '</rss>';
+
+  console.log('=================================');
+  console.log(`custom_label_3="убрать" applied: ${flaggedCount} / ${excludedIds.size} listed in ${EXCLUDED_FILE}`);
+  console.log('=================================');
 
   // =====================================================
   // SAVE
