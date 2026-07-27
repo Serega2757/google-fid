@@ -36,8 +36,8 @@ const SOURCE_URL =
     "LUX 1500": "1500",
     "LUX 2000": "2000",
     "Moon Night 40000": "Moon Night 40000",
-    "Trio 40000": "Trio 40000",
-    "King Pro 40000": "lush king pro 40000",
+    "Trio 40000": "Moon Night 40000,
+    "King Pro 40000": "Moon Night 40000",
     "Ельф у Барі BC45000": "BC45000",
     "Nic King 30000": "Ice King 30000",
     "Pi7000": "Pi7000",
@@ -82,7 +82,9 @@ const SOURCE_URL =
    "Возик 10000": "Vozol 10000",
    "Возик Rave 40000": "Vozol Rave 40000",
    "Возик Star 20000": "Vozol Star 20000",
-   "Возик Vista 20000": "Vozol Vista 20000"
+   "Возик Vista 20000": "Vozol Vista 20000",
+     "Duke 30000": "Duke 30000",
+     "EBCreate 40000": "Moon Night 40000"
   };
 
   /* ================================
