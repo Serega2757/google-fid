@@ -74,7 +74,15 @@ const SOURCE_URL =
     "Возол 12000": "Vozol 12000",
     "Возол Rave 40000": "Vozol Rave 40000",
     "Возол Star 20000": "Vozol Star 20000",
-    "Возол Vista 20000": "Vozol Vista 20000"
+    "Возол Vista 20000": "Vozol Vista 20000",
+   "ELF Style BC45000": "BC45000",
+   "Флоник Ultra 20000": "Flonq Ultra 20000",
+   "Флоник Max 12000": "Flonq Max 12000",
+   "Хелка Synix 30000": "Hello Synix 30000",
+   "Возик 10000": "Vozol 10000",
+   "Возик Rave 40000": "Vozol Rave 40000",
+   "Возик Star 20000": "Vozol Star 20000",
+   "Возик Vista 20000": "Vozol Vista 20000"
   };
 
   /* ================================
