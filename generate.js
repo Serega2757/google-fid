@@ -36,7 +36,7 @@ const SOURCE_URL =
     "LUX 1500": "1500",
     "LUX 2000": "2000",
     "Moon Night 40000": "Moon Night 40000",
-    "Trio 40000": "Moon Night 40000,
+    "Trio 40000": "Moon Night 40000",
     "King Pro 40000": "Moon Night 40000",
     "Ельф у Барі BC45000": "BC45000",
     "Nic King 30000": "Ice King 30000",
