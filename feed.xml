@@ -122,7 +122,7 @@
 <g:description><![CDATA[&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;864&quot; loading=&quot;lazy&quot; src=&quot;/content/uploads/images/4.png&quot; width=&quot;2880&quot; /&gt;&lt;/p&gt; &lt;h1&gt;Акція &quot;Купуй вигідно&quot;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;від 2х штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;-5%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;від 4х штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;-7%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;від 10 штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;до -20%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Умови акції&lt;/h2&gt; &lt;p&gt;✅ &lt;strong&gt;Замовляйте різні пристрої по 1 шт.&lt;/strong&gt; Знижка залежить лише від загальної кількості товарів у вашому замовленні.&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Максимальна вигода для вас!&lt;/strong&gt; Менеджер підбере та застосує найбільшу можливу знижку після підтвердження замовлення.&lt;/p&gt; &lt;p&gt;❗ &lt;strong&gt;Знижка не підсумовується з персональними пропозиціями та промокодами.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Не проґавте шанс скористатися вигідною пропозицією вже сьогодні!&lt;/em&gt;&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/elfb-2000-polunytsia-vynohrad/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/46/600x600l80nn0/30680170116930.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>449 UAH</g:price>
 <g:brand>NoName</g:brand>
 <g:condition>new</g:condition>
@@ -15450,7 +15450,7 @@
 <g:description><![CDATA[&lt;p&gt;Швидка відправка. Великий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/dub-odn-333/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/42/600x600l80nn0/68662164166638.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>449 UAH</g:price>
 <g:brand>NoName</g:brand>
 <g:condition>new</g:condition>
@@ -19824,6 +19824,21 @@
 <g:custom_label_2>Octobar X</g:custom_label_2>
 </item>
 <item>
+<g:id>lucky-30-22</g:id>
+<g:title><![CDATA[Жижка Lucky 30мл Апельсиновий Лимонад]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
+<g:link>https://palmy.com.ua/lucky-30ml-50mh-orange-lemonade-apelsynovyi-lymonad/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/47/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-apelsynovyi-lymonad-orange-lemonade-21472086207638.jpg</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>350 UAH</g:price>
+<g:brand>LUCKY</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>777</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>LUCKY</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
 <g:id>lucky-30-2</g:id>
 <g:title><![CDATA[Жижка Lucky 30мл Банан Лід]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
@@ -20173,20 +20188,6 @@
 <g:custom_label_1>рідини</g:custom_label_1>
 <g:custom_label_2>LUCKY</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>lucky-30-10</g:id>
-<g:title><![CDATA[Жижка Lucky 30мл Холодне Манго]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
-<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/22/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango-42770708254792.jpg</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>350 UAH</g:price>
-<g:brand>LUCKY</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>777</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>LUCKY</g:custom_label_2>
 </item>
 <item>
 <g:id>hd25755</g:id>
@@ -20640,6 +20641,20 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
+<g:id>lucky-30-10</g:id>
+<g:title><![CDATA[Жижка Lucky 30мл Холодне Манго]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
+<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/22/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango-42770708254792.jpg</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>350 UAH</g:price>
+<g:brand>LUCKY</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>777</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>LUCKY</g:custom_label_2>
+</item>
+<item>
 <g:id>hd28147</g:id>
 <g:title><![CDATA[Жижка Lucky 30мл Мохіто Лимонад]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
@@ -20906,7 +20921,7 @@
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/chaser-black-30ml-50mh-energy-grape-enerhetyk-vynohrad/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/29/1000x1000l80nn0/63828642430584.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>349 UAH</g:price>
 <g:brand>Chaser Black</g:brand>
 <g:condition>new</g:condition>
@@ -22815,7 +22830,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/nabir-13/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/38/540x585l80nn0/alchemist-30ml-50mh-pitaya-peach-pitaia-persyk-26387981758261.jpg</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>350 UAH</g:price>
 <g:brand>Alchemist</g:brand>
 <g:condition>new</g:condition>
@@ -34560,12 +34575,12 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
-<g:id>hd21983</g:id>
-<g:title><![CDATA[Жижка Troublemaker 30мл Полуниця Пиріг]]></g:title>
+<g:id>hd21979</g:id>
+<g:title><![CDATA[Жижка Troublemaker 30мл Кориця Тютюн]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/troublemaker-30-ml-50-mh-springfield-sprinhfild/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/400x400l80nn0/32533721512246.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:link>https://palmy.com.ua/troublemaker-30-ml-50-mh-havana-havana/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/3/400x400l80nn0/73135429112445.png</g:image_link>
+<g:availability>out of stock</g:availability>
 <g:price>279 UAH</g:price>
 <g:brand>Troublemaker</g:brand>
 <g:condition>new</g:condition>
@@ -34575,12 +34590,12 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
-<g:id>hd21979</g:id>
-<g:title><![CDATA[Жижка Troublemaker 30мл Кориця Тютюн]]></g:title>
+<g:id>hd21983</g:id>
+<g:title><![CDATA[Жижка Troublemaker 30мл Полуниця Пиріг]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/troublemaker-30-ml-50-mh-havana-havana/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/3/400x400l80nn0/73135429112445.png</g:image_link>
-<g:availability>out of stock</g:availability>
+<g:link>https://palmy.com.ua/troublemaker-30-ml-50-mh-springfield-sprinhfild/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/400x400l80nn0/32533721512246.png</g:image_link>
+<g:availability>in stock</g:availability>
 <g:price>279 UAH</g:price>
 <g:brand>Troublemaker</g:brand>
 <g:condition>new</g:condition>
@@ -36800,7 +36815,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/nabir-116/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/47/400x400l80nn0/86517000873917.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>169 UAH</g:price>
 <g:brand>Chaser</g:brand>
 <g:condition>new</g:condition>
@@ -43353,7 +43368,7 @@
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/chaser-lux-30ml-50mh-ice-latte-ultra-ais-latte/3560/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/11/536x536l80nn0/39333954414991.jpg</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>389 UAH</g:price>
 <g:brand>Chaser Lux</g:brand>
 <g:condition>new</g:condition>
@@ -51242,7 +51257,7 @@
 <g:description><![CDATA[&lt;p&gt;Готова рідина на будь-який смак&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/yummy-30-ml-50-mh-kryzhanyi-kavun-iced-watermelon/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/36/400x400l80nn0/72060319054101.png</g:image_link>
-<g:availability>out of stock</g:availability>
+<g:availability>in stock</g:availability>
 <g:price>300 UAH</g:price>
 <g:brand>YUMMY</g:brand>
 <g:condition>new</g:condition>
@@ -51518,7 +51533,7 @@
 <g:description><![CDATA[&lt;p&gt;Готова рідина на будь-який смак&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/flip-30-ml-50-mh-cola-kola/7794/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/45/400x400l80nn0/12372915736637.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>250 UAH</g:price>
 <g:brand>Flip</g:brand>
 <g:condition>new</g:condition>
@@ -56285,6 +56300,20 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
+<g:id>hd27990</g:id>
+<g:title><![CDATA[Жижка Lucky Chrome 30мл Гранат Вишня]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/lucky-chrome-30ml-50mh-pomegranate-cherry-hranat-vyshnia/9932/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/33/800x800l80nn0/58266312842454.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>380 UAH</g:price>
+<g:brand>LUCKY</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>777</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>LUCKY</g:custom_label_2>
+</item>
+<item>
 <g:id>hd27988</g:id>
 <g:title><![CDATA[Жижка Lucky Chrome 30мл Жалейні Ведмедики]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;]]></g:description>
@@ -57792,7 +57821,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/nabir-samozamisu/17276/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/27/540x585l80nn0/12337575651262.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>350 UAH</g:price>
 <g:brand>Alchemist</g:brand>
 <g:condition>new</g:condition>
@@ -59234,7 +59263,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/nabir-121/17330/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/31/400x400l80nn0/87408147442084.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>169 UAH</g:price>
 <g:brand>Chaser</g:brand>
 <g:condition>new</g:condition>
@@ -62300,7 +62329,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-berry-lemonade/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/16/536x536l80nn0/79402621495025.jpg</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>389 UAH</g:price>
 <g:brand>Chaser Lux</g:brand>
 <g:condition>new</g:condition>
@@ -62463,40 +62492,12 @@
 <g:custom_label_2>Chaser Lux</g:custom_label_2>
 </item>
 <item>
-<g:id>dub-hd26816</g:id>
-<g:title><![CDATA[Заливка Chaser Lux 30/50 Blackberry Lemonade]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-berry-lemonade/18802/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/3/1000x1000l80nn0/84033499360502.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>389 UAH</g:price>
-<g:brand>Chaser Lux</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>8469</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Chaser Lux</g:custom_label_2>
-</item>
-<item>
 <g:id>dub-char-lux-30-10-2</g:id>
 <g:title><![CDATA[Заливка Chaser Lux 30/65 Coconut Melon]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-coconut-melon/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/24/251x201l80nn0/49528989789588.jpg</g:image_link>
 <g:availability>in stock</g:availability>
-<g:price>389 UAH</g:price>
-<g:brand>Chaser Lux</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>8469</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Chaser Lux</g:custom_label_2>
-</item>
-<item>
-<g:id>dub-char-lux-30-12</g:id>
-<g:title><![CDATA[Заливка Chaser Lux 30/50 Blackberry Pink Guava Limited]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-berry-lemonade/18803/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/4/1000x1000l80nn0/24074719923841.png</g:image_link>
-<g:availability>out of stock</g:availability>
 <g:price>389 UAH</g:price>
 <g:brand>Chaser Lux</g:brand>
 <g:condition>new</g:condition>
@@ -62889,6 +62890,34 @@
 <g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-watermelon-raspberry/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/45/1000x800l80nn0/62733100917235.png</g:image_link>
 <g:availability>in stock</g:availability>
+<g:price>389 UAH</g:price>
+<g:brand>Chaser Lux</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>8469</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Chaser Lux</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-hd26816</g:id>
+<g:title><![CDATA[Заливка Chaser Lux 30/50 Blackberry Lemonade]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-berry-lemonade/18802/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/3/1000x1000l80nn0/84033499360502.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>389 UAH</g:price>
+<g:brand>Chaser Lux</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>8469</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Chaser Lux</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-char-lux-30-12</g:id>
+<g:title><![CDATA[Заливка Chaser Lux 30/50 Blackberry Pink Guava Limited]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/zalyvka-chaser-lux-30-65-berry-lemonade/18803/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/4/1000x1000l80nn0/24074719923841.png</g:image_link>
+<g:availability>out of stock</g:availability>
 <g:price>389 UAH</g:price>
 <g:brand>Chaser Lux</g:brand>
 <g:condition>new</g:condition>
@@ -69743,20 +69772,6 @@
 <g:custom_label_2>Flavorlab Ripe</g:custom_label_2>
 </item>
 <item>
-<g:id>dub-fla-trip-30-50-10</g:id>
-<g:title><![CDATA[Заливка Flavorlab Triple 30/50 Watermelon Menthol]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/nabir-samozamisu/17944/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/45/520x539l80nn0/45973326186750.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>348 UAH</g:price>
-<g:brand>Flavorlab Triple</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>8469</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Flavorlab Triple</g:custom_label_2>
-</item>
-<item>
 <g:id>dub-fla-trip-30-65-1</g:id>
 <g:title><![CDATA[Заливка Flavorlab Triple 30/65 Triple Berry]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
@@ -69791,20 +69806,6 @@
 <g:link>https://palmy.com.ua/nabir-samozamisu/17947/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/48/564x564l80nn0/77626656082901.jpg</g:image_link>
 <g:availability>in stock</g:availability>
-<g:price>348 UAH</g:price>
-<g:brand>Flavorlab Triple</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>8469</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Flavorlab Triple</g:custom_label_2>
-</item>
-<item>
-<g:id>dub-fla-trip-30-65-4</g:id>
-<g:title><![CDATA[Заливка Flavorlab Triple 30/65 Triple Peppermint]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/nabir-samozamisu/17948/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/49/564x564l80nn0/12917310267654.jpg</g:image_link>
-<g:availability>out of stock</g:availability>
 <g:price>348 UAH</g:price>
 <g:brand>Flavorlab Triple</g:brand>
 <g:condition>new</g:condition>
@@ -69889,6 +69890,34 @@
 <g:link>https://palmy.com.ua/nabir-samozamisu/17955/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/520x539l80nn0/48405353733262.png</g:image_link>
 <g:availability>in stock</g:availability>
+<g:price>348 UAH</g:price>
+<g:brand>Flavorlab Triple</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>8469</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Flavorlab Triple</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-fla-trip-30-50-10</g:id>
+<g:title><![CDATA[Заливка Flavorlab Triple 30/50 Watermelon Menthol]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/nabir-samozamisu/17944/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/45/520x539l80nn0/45973326186750.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>348 UAH</g:price>
+<g:brand>Flavorlab Triple</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>8469</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Flavorlab Triple</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-fla-trip-30-65-4</g:id>
+<g:title><![CDATA[Заливка Flavorlab Triple 30/65 Triple Peppermint]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/nabir-samozamisu/17948/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/49/564x564l80nn0/12917310267654.jpg</g:image_link>
+<g:availability>out of stock</g:availability>
 <g:price>348 UAH</g:price>
 <g:brand>Flavorlab Triple</g:brand>
 <g:condition>new</g:condition>
@@ -83869,34 +83898,6 @@
 <g:custom_label_2>Chaser</g:custom_label_2>
 </item>
 <item>
-<g:id>dub-hd20993</g:id>
-<g:title><![CDATA[Готова заливка Chaser 15/50 Peach Plus]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/gotovi-141/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/400x400l80nn0/42439079482628.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>159 UAH</g:price>
-<g:brand>Chaser</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>2582</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Chaser</g:custom_label_2>
-</item>
-<item>
-<g:id>dub-hd21220</g:id>
-<g:title><![CDATA[Готова заливка Chaser 15/50 Pineapple Balance]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/gotovi-142/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/60399932629049.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>159 UAH</g:price>
-<g:brand>Chaser</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>2582</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>Chaser</g:custom_label_2>
-</item>
-<item>
 <g:id>dub-hd21234</g:id>
 <g:title><![CDATA[Готова заливка Chaser 15/30 Mango Balance]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
@@ -83958,6 +83959,34 @@
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/gotovi-106/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/17/400x400l80nn0/77585606597388.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>159 UAH</g:price>
+<g:brand>Chaser</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>2582</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Chaser</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-hd20993</g:id>
+<g:title><![CDATA[Готова заливка Chaser 15/50 Peach Plus]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/gotovi-141/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/400x400l80nn0/42439079482628.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>159 UAH</g:price>
+<g:brand>Chaser</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>2582</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>Chaser</g:custom_label_2>
+</item>
+<item>
+<g:id>dub-hd21220</g:id>
+<g:title><![CDATA[Готова заливка Chaser 15/50 Pineapple Balance]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
+<g:link>https://palmy.com.ua/gotovi-142/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/60399932629049.png</g:image_link>
 <g:availability>out of stock</g:availability>
 <g:price>159 UAH</g:price>
 <g:brand>Chaser</g:brand>
@@ -90855,12 +90884,12 @@
 <g:custom_label_2>ELFLIQ</g:custom_label_2>
 </item>
 <item>
-<g:id>dub-hd26388</g:id>
-<g:title><![CDATA[Готова заливка ELFLIQ 30/50 Mango Peach]]></g:title>
+<g:id>dub-ws39187-11</g:id>
+<g:title><![CDATA[Готова заливка ELFLIQ 30/50 PB Cloudd]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/hotova/19958/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/9/608x594l80nn0/42285223710412.png</g:image_link>
-<g:availability>out of stock</g:availability>
+<g:link>https://palmy.com.ua/hotova/19959/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/10/500x500l80nn0/78468035918540.jpg</g:image_link>
+<g:availability>in stock</g:availability>
 <g:price>349 UAH</g:price>
 <g:brand>ELFLIQ</g:brand>
 <g:condition>new</g:condition>
@@ -90869,12 +90898,12 @@
 <g:custom_label_2>ELFLIQ</g:custom_label_2>
 </item>
 <item>
-<g:id>dub-ws39187-11</g:id>
-<g:title><![CDATA[Готова заливка ELFLIQ 30/50 PB Cloudd]]></g:title>
+<g:id>dub-hd26388</g:id>
+<g:title><![CDATA[Готова заливка ELFLIQ 30/50 Mango Peach]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
-<g:link>https://palmy.com.ua/hotova/19959/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/10/500x500l80nn0/78468035918540.jpg</g:image_link>
-<g:availability>in stock</g:availability>
+<g:link>https://palmy.com.ua/hotova/19958/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/9/608x594l80nn0/42285223710412.png</g:image_link>
+<g:availability>out of stock</g:availability>
 <g:price>349 UAH</g:price>
 <g:brand>ELFLIQ</g:brand>
 <g:condition>new</g:condition>
@@ -91490,7 +91519,7 @@
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/hotova/19443/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/44/400x400l80nn0/31899020969722.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>250 UAH</g:price>
 <g:brand>Flip</g:brand>
 <g:condition>new</g:condition>
@@ -94976,7 +95005,7 @@
 <g:description><![CDATA[&lt;p&gt;Готова заливка. Великий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/hotova/19628/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/29/400x400l80nn0/48492144114377.png</g:image_link>
-<g:availability>out of stock</g:availability>
+<g:availability>in stock</g:availability>
 <g:price>300 UAH</g:price>
 <g:brand>YUMMY</g:brand>
 <g:condition>new</g:condition>
@@ -104916,34 +104945,6 @@
 <g:custom_label_2>Vaporesso</g:custom_label_2>
 </item>
 <item>
-<g:id>hd24607</g:id>
-<g:title><![CDATA[ХRОS 4 Nаnо 1350 Titanium Silver (Металік)]]></g:title>
-<g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
-<g:link>https://palmy.com.ua/product-vp-xroc-67/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/34/800x800l80nn0/53029136813508.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>1070 UAH</g:price>
-<g:brand>NoName</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>37</g:google_product_category>
-<g:custom_label_1>pods</g:custom_label_1>
-<g:custom_label_2>Vaporesso</g:custom_label_2>
-</item>
-<item>
-<g:id>hd24609</g:id>
-<g:title><![CDATA[ХRОS 4 Nаnо 1350 Word-pop Blue (Синій)]]></g:title>
-<g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
-<g:link>https://palmy.com.ua/product-vp-xroc-68/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/35/800x800l80nn0/72034717567397.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>1070 UAH</g:price>
-<g:brand>NoName</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>37</g:google_product_category>
-<g:custom_label_1>pods</g:custom_label_1>
-<g:custom_label_2>Vaporesso</g:custom_label_2>
-</item>
-<item>
 <g:id>hd27428</g:id>
 <g:title><![CDATA[ХRОS 4 Nаnо 1350 Kong Limited (Бронзовий)]]></g:title>
 <g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
@@ -104964,6 +104965,34 @@
 <g:link>https://palmy.com.ua/product-vp-xroc-66/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/33/800x800l80nn0/73213320800692.png</g:image_link>
 <g:availability>out of stock</g:availability>
+<g:price>1070 UAH</g:price>
+<g:brand>NoName</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>37</g:google_product_category>
+<g:custom_label_1>pods</g:custom_label_1>
+<g:custom_label_2>Vaporesso</g:custom_label_2>
+</item>
+<item>
+<g:id>hd24607</g:id>
+<g:title><![CDATA[ХRОS 4 Nаnо 1350 Titanium Silver (Металік)]]></g:title>
+<g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
+<g:link>https://palmy.com.ua/product-vp-xroc-67/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/34/800x800l80nn0/53029136813508.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>1070 UAH</g:price>
+<g:brand>NoName</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>37</g:google_product_category>
+<g:custom_label_1>pods</g:custom_label_1>
+<g:custom_label_2>Vaporesso</g:custom_label_2>
+</item>
+<item>
+<g:id>hd24609</g:id>
+<g:title><![CDATA[ХRОS 4 Nаnо 1350 Word-pop Blue (Синій)]]></g:title>
+<g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
+<g:link>https://palmy.com.ua/product-vp-xroc-68/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/35/800x800l80nn0/72034717567397.png</g:image_link>
+<g:availability>in stock</g:availability>
 <g:price>1070 UAH</g:price>
 <g:brand>NoName</g:brand>
 <g:condition>new</g:condition>
@@ -112024,6 +112053,20 @@
 <g:custom_label_2>заправка 420</g:custom_label_2>
 </item>
 <item>
+<g:id>hd8195</g:id>
+<g:title><![CDATA[Аромасуміш 420 Light 40г Арахісова паста]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-262/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/32/400x400l80nn0/72450725197467.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>150 UAH</g:price>
+<g:brand>420</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка 420</g:custom_label_2>
+</item>
+<item>
 <g:id>hd18216</g:id>
 <g:title><![CDATA[Аромасуміш 420 Light 40г Айс малина лимон]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -112044,20 +112087,6 @@
 <g:link>https://palmy.com.ua/aroma-259/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/29/400x400l80nn0/57375855880360.png</g:image_link>
 <g:availability>out of stock</g:availability>
-<g:price>150 UAH</g:price>
-<g:brand>420</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка 420</g:custom_label_2>
-</item>
-<item>
-<g:id>hd8195</g:id>
-<g:title><![CDATA[Аромасуміш 420 Light 40г Арахісова паста]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-262/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/32/400x400l80nn0/72450725197467.png</g:image_link>
-<g:availability>in stock</g:availability>
 <g:price>150 UAH</g:price>
 <g:brand>420</g:brand>
 <g:condition>new</g:condition>
@@ -119106,34 +119135,6 @@
 <g:custom_label_2>заправка CULTt</g:custom_label_2>
 </item>
 <item>
-<g:id>hd9404</g:id>
-<g:title><![CDATA[Аромасуміш CULTt Gold 100г G24 S.K.&amp;Lim (Ківі Полуниця Лайм)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-5219/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/93022507084147.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>370 UAH</g:price>
-<g:brand>CULTt</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка CULTt</g:custom_label_2>
-</item>
-<item>
-<g:id>hd2933</g:id>
-<g:title><![CDATA[Аромасуміш CULTt Gold 100г G46 Coconut Almond (Кокос Пиріг)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-5220/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/8/400x400l80nn0/28745560648872.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>370 UAH</g:price>
-<g:brand>CULTt</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка CULTt</g:custom_label_2>
-</item>
-<item>
 <g:id>hd4930</g:id>
 <g:title><![CDATA[Аромасуміш CULTt Gold 100г G108 Orange Jasmine (Апельсин Квіти)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -119350,6 +119351,34 @@
 <g:link>https://palmy.com.ua/aroma-1437/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/4/400x400l80nn0/89285881737735.png</g:image_link>
 <g:availability>out of stock</g:availability>
+<g:price>370 UAH</g:price>
+<g:brand>CULTt</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка CULTt</g:custom_label_2>
+</item>
+<item>
+<g:id>hd9404</g:id>
+<g:title><![CDATA[Аромасуміш CULTt Gold 100г G24 S.K.&amp;Lim (Ківі Полуниця Лайм)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-5219/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/93022507084147.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>370 UAH</g:price>
+<g:brand>CULTt</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка CULTt</g:custom_label_2>
+</item>
+<item>
+<g:id>hd2933</g:id>
+<g:title><![CDATA[Аромасуміш CULTt Gold 100г G46 Coconut Almond (Кокос Пиріг)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-5220/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/8/400x400l80nn0/28745560648872.png</g:image_link>
+<g:availability>in stock</g:availability>
 <g:price>370 UAH</g:price>
 <g:brand>CULTt</g:brand>
 <g:condition>new</g:condition>
@@ -133296,6 +133325,20 @@
 <g:custom_label_2>заправка Heven</g:custom_label_2>
 </item>
 <item>
+<g:id>hd23164</g:id>
+<g:title><![CDATA[Аромасуміш Heven 50г Curacao (Апельсин Лимонад)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-2342/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/37/400x400l80nn0/92473565279367.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>225 UAH</g:price>
+<g:brand>Heven</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Heven</g:custom_label_2>
+</item>
+<item>
 <g:id>hd26595</g:id>
 <g:title><![CDATA[Аромасуміш Heven 50г Black Grape (Виноград)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -133324,20 +133367,6 @@
 <g:custom_label_1>суміш</g:custom_label_1>
 <g:custom_label_2>заправка Heven</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>hd23164</g:id>
-<g:title><![CDATA[Аромасуміш Heven 50г Curacao (Апельсин Лимонад)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-2342/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/37/400x400l80nn0/92473565279367.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>225 UAH</g:price>
-<g:brand>Heven</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Heven</g:custom_label_2>
 </item>
 <item>
 <g:id>hd23160</g:id>
@@ -134752,7 +134781,7 @@
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-2503/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/22/400x400l80nn0/76115820872479.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>135 UAH</g:price>
 <g:brand>Jibiar</g:brand>
 <g:condition>new</g:condition>
@@ -135777,7 +135806,7 @@
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-5358/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/38/400x400l80nn0/77872469077525.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>135 UAH</g:price>
 <g:brand>Jibiar</g:brand>
 <g:condition>new</g:condition>
@@ -140373,12 +140402,40 @@
 <g:custom_label_2>заправка Molfar</g:custom_label_2>
 </item>
 <item>
+<g:id>hd21458</g:id>
+<g:title><![CDATA[Аромасуміш Molfar Chill Line 200г Віскі Оранж (Апельсин Віскі)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-2841/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/10/400x400l80nn0/39280254824041.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>500 UAH</g:price>
+<g:brand>Molfar</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Molfar</g:custom_label_2>
+</item>
+<item>
 <g:id>hd21456</g:id>
 <g:title><![CDATA[Аромасуміш Molfar Chill Line 200г Бергамот]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-2845/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/14/400x400l80nn0/58778256493428.png</g:image_link>
 <g:availability>in stock</g:availability>
+<g:price>500 UAH</g:price>
+<g:brand>Molfar</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Molfar</g:custom_label_2>
+</item>
+<item>
+<g:id>hd21465</g:id>
+<g:title><![CDATA[Аромасуміш Molfar Chill Line 200г Сангрія Сієста (Вино Лимонад Ягоди)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-2846/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/15/400x400l80nn0/48156802775149.png</g:image_link>
+<g:availability>out of stock</g:availability>
 <g:price>500 UAH</g:price>
 <g:brand>Molfar</g:brand>
 <g:condition>new</g:condition>
@@ -140400,34 +140457,6 @@
 <g:custom_label_1>суміш</g:custom_label_1>
 <g:custom_label_2>заправка Molfar</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>hd21458</g:id>
-<g:title><![CDATA[Аромасуміш Molfar Chill Line 200г Віскі Оранж (Апельсин Віскі)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-2841/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/10/400x400l80nn0/39280254824041.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>500 UAH</g:price>
-<g:brand>Molfar</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Molfar</g:custom_label_2>
-</item>
-<item>
-<g:id>hd21465</g:id>
-<g:title><![CDATA[Аромасуміш Molfar Chill Line 200г Сангрія Сієста (Вино Лимонад Ягоди)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-2846/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/15/400x400l80nn0/48156802775149.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>500 UAH</g:price>
-<g:brand>Molfar</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Molfar</g:custom_label_2>
 </item>
 <item>
 <g:id>hd21470</g:id>
@@ -147440,21 +147469,6 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
-<g:id>hd18689</g:id>
-<g:title><![CDATA[Аромасуміш Orwell Strong 200г Bacardi Black (Ром)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-3270/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/55241674013831.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>545 UAH</g:price>
-<g:brand>Orwell</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Orwell</g:custom_label_2>
-<g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
 <g:id>hd23596</g:id>
 <g:title><![CDATA[Аромасуміш Orwell Strong 200г Orwell Embery Strong Сливовий Джем (Слива)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -147513,21 +147527,6 @@
 <g:custom_label_2>заправка Orwell</g:custom_label_2>
 </item>
 <item>
-<g:id>hd21113</g:id>
-<g:title><![CDATA[Аромасуміш Orwell Strong 200г Dark Candy (Цукерки Мультифрукт)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-3275/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/12/400x400l80nn0/63892394226399.png</g:image_link>
-<g:availability>out of stock</g:availability>
-<g:price>545 UAH</g:price>
-<g:brand>Orwell</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Orwell</g:custom_label_2>
-<g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
 <g:id>hd18683</g:id>
 <g:title><![CDATA[Аромасуміш Orwell Strong 200г Blue Mist (Чорниця)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -147554,6 +147553,36 @@
 <g:google_product_category>4740</g:google_product_category>
 <g:custom_label_1>суміш</g:custom_label_1>
 <g:custom_label_2>заправка Orwell</g:custom_label_2>
+</item>
+<item>
+<g:id>hd18689</g:id>
+<g:title><![CDATA[Аромасуміш Orwell Strong 200г Bacardi Black (Ром)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-3270/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/7/400x400l80nn0/55241674013831.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>545 UAH</g:price>
+<g:brand>Orwell</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Orwell</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
+<g:id>hd21113</g:id>
+<g:title><![CDATA[Аромасуміш Orwell Strong 200г Dark Candy (Цукерки Мультифрукт)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-3275/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/12/400x400l80nn0/63892394226399.png</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>545 UAH</g:price>
+<g:brand>Orwell</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Orwell</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
 <g:id>hd22815</g:id>
@@ -161612,35 +161641,6 @@
 <g:custom_label_2>заправка Unity</g:custom_label_2>
 </item>
 <item>
-<g:id>hd20788</g:id>
-<g:title><![CDATA[Аромасуміш Unity 250г Lebiga Watermelon Ice Cream (Кавун Морозиво)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-4366/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/11/400x400l80nn0/45812480457641.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>730 UAH</g:price>
-<g:brand>Unity</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Unity</g:custom_label_2>
-<g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>hd27354</g:id>
-<g:title><![CDATA[Аромасуміш Unity 250г Star Story (Карамболь Манго)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-4367/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/12/800x800l80nn0/49007573256206.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>730 UAH</g:price>
-<g:brand>Unity</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Unity</g:custom_label_2>
-</item>
-<item>
 <g:id>hd23066</g:id>
 <g:title><![CDATA[Аромасуміш Unity 250г Bubble Tea (Бабл ти)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -161696,6 +161696,35 @@
 <g:custom_label_1>суміш</g:custom_label_1>
 <g:custom_label_2>заправка Unity</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
+<g:id>hd20788</g:id>
+<g:title><![CDATA[Аромасуміш Unity 250г Lebiga Watermelon Ice Cream (Кавун Морозиво)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-4366/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/11/400x400l80nn0/45812480457641.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>730 UAH</g:price>
+<g:brand>Unity</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Unity</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
+<g:id>hd27354</g:id>
+<g:title><![CDATA[Аромасуміш Unity 250г Star Story (Карамболь Манго)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-4367/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/12/800x800l80nn0/49007573256206.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>730 UAH</g:price>
+<g:brand>Unity</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Unity</g:custom_label_2>
 </item>
 <item>
 <g:id>hd21848</g:id>
@@ -163818,7 +163847,7 @@
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-5666/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/3/400x400l80nn0/16544032278236.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>179 UAH</g:price>
 <g:brand>СамСварил</g:brand>
 <g:condition>new</g:condition>
@@ -168681,36 +168710,6 @@
 <g:custom_label_2>заправка Space Tea</g:custom_label_2>
 </item>
 <item>
-<g:id>hd25731</g:id>
-<g:title><![CDATA[Чайна суміш Space Tea 100г Kashmir (Прянощі)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-4916/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/34/400x400l80nn0/94569005643415.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>305 UAH</g:price>
-<g:brand>Space Tea</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Space Tea</g:custom_label_2>
-<g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>hd20266</g:id>
-<g:title><![CDATA[Чайна суміш Space Tea 100г Black Currant (Смородина)]]></g:title>
-<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
-<g:link>https://palmy.com.ua/aroma-4918/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/36/400x400l80nn0/65853295740399.png</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>305 UAH</g:price>
-<g:brand>Space Tea</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>4740</g:google_product_category>
-<g:custom_label_1>суміш</g:custom_label_1>
-<g:custom_label_2>заправка Space Tea</g:custom_label_2>
-<g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
 <g:id>hd19270</g:id>
 <g:title><![CDATA[Чайна суміш Space Tea 100г Sicilian Orange (Ананас)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -169047,6 +169046,21 @@
 <g:custom_label_2>заправка Space Tea</g:custom_label_2>
 </item>
 <item>
+<g:id>hd25731</g:id>
+<g:title><![CDATA[Чайна суміш Space Tea 100г Kashmir (Прянощі)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-4916/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/34/400x400l80nn0/94569005643415.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>305 UAH</g:price>
+<g:brand>Space Tea</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Space Tea</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
 <g:id>hd25982</g:id>
 <g:title><![CDATA[Чайна суміш Space Tea 100г Home Banana Berry Punch (Пунш Ягоди)]]></g:title>
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
@@ -169059,6 +169073,21 @@
 <g:google_product_category>4740</g:google_product_category>
 <g:custom_label_1>суміш</g:custom_label_1>
 <g:custom_label_2>заправка Space Tea</g:custom_label_2>
+</item>
+<item>
+<g:id>hd20266</g:id>
+<g:title><![CDATA[Чайна суміш Space Tea 100г Black Currant (Смородина)]]></g:title>
+<g:description><![CDATA[Багатий асортимент смаків]]></g:description>
+<g:link>https://palmy.com.ua/aroma-4918/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/36/400x400l80nn0/65853295740399.png</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>305 UAH</g:price>
+<g:brand>Space Tea</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>4740</g:google_product_category>
+<g:custom_label_1>суміш</g:custom_label_1>
+<g:custom_label_2>заправка Space Tea</g:custom_label_2>
+<g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
 <g:id>hd19287</g:id>
