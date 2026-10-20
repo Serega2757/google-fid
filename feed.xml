@@ -3247,7 +3247,7 @@
 <g:description><![CDATA[&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;864&quot; loading=&quot;lazy&quot; src=&quot;/content/uploads/images/4.png&quot; width=&quot;2880&quot; /&gt;&lt;/p&gt; &lt;h1&gt;Акція &quot;Купуй вигідно&quot;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;від 2х штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;-5%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;від 4х штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;-7%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;li&gt;від 10 штук &lt;span style=&quot;color:#ff0000;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;до -20%&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Умови акції&lt;/h2&gt; &lt;p&gt;✅ &lt;strong&gt;Замовляйте різні пристрої по 1 шт.&lt;/strong&gt; Знижка залежить лише від загальної кількості товарів у вашому замовленні.&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Максимальна вигода для вас!&lt;/strong&gt; Менеджер підбере та застосує найбільшу можливу знижку після підтвердження замовлення.&lt;/p&gt; &lt;p&gt;❗ &lt;strong&gt;Знижка не підсумовується з персональними пропозиціями та промокодами.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Не проґавте шанс скористатися вигідною пропозицією вже сьогодні!&lt;/em&gt;&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/gh-23000-kolir-slivovyi-ws83959-3/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/19/700x700l80nn0/48024057124090.jpg</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>947 UAH</g:price>
 <g:brand>NoName</g:brand>
 <g:condition>new</g:condition>
@@ -19942,20 +19942,6 @@
 <g:custom_label_3>убрать</g:custom_label_3>
 </item>
 <item>
-<g:id>lucky-30-6</g:id>
-<g:title><![CDATA[Жижка Lucky 30мл Кактус Гуава Ківі]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
-<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kaktus-huava-kivi-cactus-guava-kiwi/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/5/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kaktus-huava-kivi-cactus-guava-kiwi-28640202995517.jpg</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>350 UAH</g:price>
-<g:brand>LUCKY</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>777</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>LUCKY</g:custom_label_2>
-</item>
-<item>
 <g:id>lucky-30-8</g:id>
 <g:title><![CDATA[Жижка Lucky 30мл Кокос Диня]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
@@ -20188,6 +20174,20 @@
 <g:custom_label_1>рідини</g:custom_label_1>
 <g:custom_label_2>LUCKY</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
+</item>
+<item>
+<g:id>lucky-30-10</g:id>
+<g:title><![CDATA[Жижка Lucky 30мл Холодне Манго]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
+<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/22/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango-42770708254792.jpg</g:image_link>
+<g:availability>in stock</g:availability>
+<g:price>350 UAH</g:price>
+<g:brand>LUCKY</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>777</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>LUCKY</g:custom_label_2>
 </item>
 <item>
 <g:id>hd25755</g:id>
@@ -20537,6 +20537,20 @@
 <g:custom_label_2>LUCKY</g:custom_label_2>
 </item>
 <item>
+<g:id>lucky-30-6</g:id>
+<g:title><![CDATA[Жижка Lucky 30мл Кактус Гуава Ківі]]></g:title>
+<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
+<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kaktus-huava-kivi-cactus-guava-kiwi/</g:link>
+<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/5/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kaktus-huava-kivi-cactus-guava-kiwi-28640202995517.jpg</g:image_link>
+<g:availability>out of stock</g:availability>
+<g:price>350 UAH</g:price>
+<g:brand>LUCKY</g:brand>
+<g:condition>new</g:condition>
+<g:google_product_category>777</g:google_product_category>
+<g:custom_label_1>рідини</g:custom_label_1>
+<g:custom_label_2>LUCKY</g:custom_label_2>
+</item>
+<item>
 <g:id>hd28140</g:id>
 <g:title><![CDATA[Жижка Lucky 30мл Вишня Лимонад]]></g:title>
 <g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
@@ -20639,20 +20653,6 @@
 <g:custom_label_1>рідини</g:custom_label_1>
 <g:custom_label_2>LUCKY</g:custom_label_2>
 <g:custom_label_3>убрать</g:custom_label_3>
-</item>
-<item>
-<g:id>lucky-30-10</g:id>
-<g:title><![CDATA[Жижка Lucky 30мл Холодне Манго]]></g:title>
-<g:description><![CDATA[&lt;p&gt;Суперовий набір, з великим асортиментом смаків&lt;/p&gt;&#13;]]></g:description>
-<g:link>https://palmy.com.ua/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango/</g:link>
-<g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/22/540x600l80nn0/nabir-ridyny-lucky-30ml-50mh-kholodne-manho-cold-mango-42770708254792.jpg</g:image_link>
-<g:availability>in stock</g:availability>
-<g:price>350 UAH</g:price>
-<g:brand>LUCKY</g:brand>
-<g:condition>new</g:condition>
-<g:google_product_category>777</g:google_product_category>
-<g:custom_label_1>рідини</g:custom_label_1>
-<g:custom_label_2>LUCKY</g:custom_label_2>
 </item>
 <item>
 <g:id>hd28147</g:id>
@@ -74635,7 +74635,7 @@
 <g:description><![CDATA[&lt;p&gt;Широкий вибір смаків&lt;/p&gt;]]></g:description>
 <g:link>https://palmy.com.ua/zalyvka-lucky-30-65-grape/18955/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/6/540x600l80nn0/59966768314950.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>350 UAH</g:price>
 <g:brand>LUCKY</g:brand>
 <g:condition>new</g:condition>
@@ -104244,7 +104244,7 @@
 <g:description><![CDATA[Великий вибір кольорів. Тільки оригінальна продукція]]></g:description>
 <g:link>https://palmy.com.ua/product-vp-xroc-15/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/32/800x800l80nn0/26971898534227.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>970 UAH</g:price>
 <g:brand>NoName</g:brand>
 <g:condition>new</g:condition>
@@ -108508,7 +108508,7 @@
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-47/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/31/400x400l80nn0/21249022147006.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>335 UAH</g:price>
 <g:brand>420</g:brand>
 <g:condition>new</g:condition>
@@ -148739,7 +148739,7 @@
 <g:description><![CDATA[Багатий асортимент смаків]]></g:description>
 <g:link>https://palmy.com.ua/aroma-5503/</g:link>
 <g:image_link>https://cdn.horoshop.ua/9ab6b9ddf6834de3ab0408b995fe7795/content/images/23/400x400l80nn0/80175238413553.png</g:image_link>
-<g:availability>in stock</g:availability>
+<g:availability>out of stock</g:availability>
 <g:price>240 UAH</g:price>
 <g:brand>Serbetli</g:brand>
 <g:condition>new</g:condition>
