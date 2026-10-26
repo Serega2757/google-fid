@@ -367,6 +367,7 @@ function getLabel1(productType, price) {
 
   if (
     type === 'Одноразові Гаджети' ||
+    type === 'Одноразові Гаджети > Одноразові пристрої' || 
     type === 'Гаджети'
   ) {
 
