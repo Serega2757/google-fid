@@ -51,6 +51,7 @@ const SOURCE_URL =
     "RI3000": "RI3000",
     "Sour King 30000": "Ice King 30000",
     "Sweet King 30000": "Ice King 30000",
+    "Join One 30000": "Ice King 30000",
     "TE6000": "TE6000",
     "ВС4000": "ВС4000",
     "Flonq Ultra 20000": "Flonq Ultra 20000",
